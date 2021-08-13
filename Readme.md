@@ -11,11 +11,11 @@ As shown in the results we can see that June is the hottest month of the year in
 
 **Month of June**
 
-![alt text](Resources/June.png)
+![alt text](resources/June.png)
 
 **Month of December**
 
-![alt text](Resources/December.png)
+![alt text](resources/December.png)
 
 ## Summary
 
